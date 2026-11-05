@@ -13,6 +13,17 @@ Dokumentasi proyek meliputi:
 - SKPL – Spesifikasi Kebutuhan Perangkat Lunak
 - DPPL – Deskripsi Perancangan Perangkat Lunak
 
+## Kontribusi dan Kompetensi
+Melalui proyek ini, kompetensi yang dikembangkan meliputi:
+- Analisis kebutuhan sistem.
+- Dokumentasi kebutuhan dan spesifikasi perangkat lunak.
+- Perancangan sistem informasi.
+- Pengujian antarmuka pengguna.
+- Kolaborasi dalam pengembangan proyek tim.
+
+## Hasil Proyek
+Menghasilkan dokumentasi analisis dan perancangan sistem serta hasil pengerjaan proyek pengembangan website konsultasi parenting.
+
 ## Tools & Technologies
 - **Figma** – Perancangan desain antarmuka (UI).
 - **Draw.io** – Pembuatan diagram perancangan sistem.
