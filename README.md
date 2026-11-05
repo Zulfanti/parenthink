@@ -13,6 +13,11 @@ Dokumentasi proyek meliputi:
 - SKPL – Spesifikasi Kebutuhan Perangkat Lunak
 - DPPL – Deskripsi Perancangan Perangkat Lunak
 
+## Tools & Technologies
+- **Figma** – Perancangan desain antarmuka (UI).
+- **Draw.io** – Pembuatan diagram perancangan sistem.
+- **Google Docs** – Penyusunan dokumentasi proyek.
+
 ## Penghargaan
 **2nd Place – Startup Idea Competition INFORMERS’19 (2023)**  
 Himpunan Mahasiswa Informatika, Universitas Tanjungpura.
